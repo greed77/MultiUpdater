@@ -6,6 +6,12 @@
 	},
 	"entries": [
 		{
+			"name": "--MultiUpdater config.json--",
+			"url": "https://raw.githubusercontent.com/greed77/MultiUpdater/master/config.json",
+			"inrelease": "config\\.json",
+			"path": "/cias/Anemone3DS.cia"
+		},
+		{
 			"name": "Anemone3DS",
 			"url": "https://github.com/astronautlevel2/Anemone3DS",
 			"inrelease": "Anemone3DS\\.cia",
