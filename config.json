@@ -7,21 +7,21 @@
 	"entries": [
 		{
 			"name": "--MultiUpdater config.json--",
-			"url": "https://raw.githubusercontent.com/greed77/MultiUpdater/master/config.json",
+			"url": "https://raw.githubusercontent.com/greed77/MultiUpdater/master",
 			"inrelease": "config\\.json",
-			"path": "/cias/Anemone3DS.cia"
+			"path": "/3ds/MultiUpdater/config.json"
 		},
 		{
 			"name": "Anemone3DS",
 			"url": "https://github.com/astronautlevel2/Anemone3DS",
 			"inrelease": "Anemone3DS\\.cia",
-			"path": "/cias/Anemone3DS.cia"
+			"path": "/cia/Anemone3DS.cia"
 		},
 		{
 			"name": "3DSident",
 			"url": "https://github.com/joel16/3DSident",
 			"inrelease": "3DSident_GUI\\.cia",
-			"path": "/cias/3DSident_GUI.cia"
+			"path": "/cia/3DSident_GUI.cia"
 		},
 		{
 			"name": "GodMode9 (latest release)",
