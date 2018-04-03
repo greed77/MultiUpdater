@@ -7,7 +7,7 @@
 	"entries": [
 		{
 			"name": "--MultiUpdater config.json--",
-			"url": "https://raw.githubusercontent.com/greed77/MultiUpdater/master",
+			"url": "https://github.com/greed77/MultiUpdater",
 			"inrelease": "config\\.json",
 			"path": "/3ds/MultiUpdater/config.json"
 		},
