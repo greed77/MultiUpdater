@@ -1,12 +1,12 @@
 {
 	"config": {
-		"self_updater": true,
+		"self_updater": false,
 		"delete_archives": true,
 		"delete_cias": false
 	},
 	"entries": [
 		{
-			"name": "--MultiUpdater config.json--",
+			"name": ">>>>>Config Update<<<<<",
 			"url": "https://github.com/greed77/MultiUpdater",
 			"inrelease": "config\\.json",
 			"path": "/3ds/MultiUpdater/config.json"
@@ -15,13 +15,19 @@
 			"name": "Anemone3DS",
 			"url": "https://github.com/astronautlevel2/Anemone3DS",
 			"inrelease": "Anemone3DS\\.cia",
-			"path": "/cia/Anemone3DS.cia"
+			"path": "/cias/Anemone3DS.cia"
 		},
 		{
 			"name": "3DSident",
 			"url": "https://github.com/joel16/3DSident",
-			"inrelease": "3DSident_GUI\\.cia",
-			"path": "/cia/3DSident_GUI.cia"
+			"inrelease": "3DSident-GUI\\.cia",
+			"path": "/cias/3DSident-GUI.cia"
+		},
+		{
+			"name": "Checkpoint",
+			"url": "https://github.com/BernardoGiordano/Checkpoint",
+			"inrelease": "Checkpoint\\.cia",
+			"path": "/cias/Checkpoint.cia"
 		},
 		{
 			"name": "GodMode9 (latest release)",
@@ -29,12 +35,6 @@
 			"inrelease": "GodMode9.*\\.zip",
 			"inarchive": "GodMode9\\.firm",
 			"path": "/luma/payloads/GodMode9.firm"
-		},
-		{
-			"name": "lumaupdate (latest release)",
-			"url": "https://github.com/KunoichiZ/lumaupdate",
-			"inarchive": "lumaupdater\\.cia",
-			"path": "/cia/lumaupdater.cia"
 		},
 		{
 			"name": "Luma3DS (latest commit)",
